@@ -1,0 +1,49 @@
+body{
+  background-image: linear-gradient(rgb(240, 134, 134), rgb(171, 206, 202));
+
+}
+html{
+  height: 100%;
+}
+
+
+
+
+h1{
+  
+  text-align: center;
+  padding: 40px;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  border-radius: 20px;
+ 
+}
+.container{
+  text-align: center;
+  margin-top: 20px;
+}
+.btn_container{
+  height: 500px;
+  background-color: rgb(133, 66, 66);
+  vertical-align: auto;
+  border-radius: 20px;
+  
+}
+.sub_container{
+  padding-top: 200px;
+  
+  font-size: 50px;
+
+}
+#Count_Display{
+  display: inline-block;
+  width:150px;
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+}
+.btn{
+  width:200px;
+  height:80px;
+}
